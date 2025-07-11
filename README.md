@@ -1,8 +1,6 @@
 # AmesHousing-Models
 
-### 🎯 Descripción breve del proyecto
-
-Ejemplo:
+### 🎯 Descripción del proyecyo
 
 > Proyecto de predicción de precios de viviendas utilizando modelos de Machine Learning tradicionales (Linear Regression, Random Forest, XGBoost) y redes neuronales profundas (Keras MLP), con visualizaciones interactivas y métricas de evaluación detalladas.
 
@@ -12,7 +10,6 @@ Ejemplo:
 
 ```
 bash
-CopiarEditar
 .
 ├── data/               # Datasets usados o links a ellos
 ├── notebooks/          # Jupyter notebooks con EDA, modelos, etc.
@@ -38,7 +35,7 @@ CopiarEditar
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 **Nombre:** Ames Housing
 
