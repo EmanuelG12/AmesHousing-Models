@@ -11,10 +11,10 @@
 ```
 bash
 .
-├── data/               # Datasets usados o links a ellos
+├── data/               # Dataset usado
 ├── notebooks/          # Jupyter notebooks con EDA, modelos, etc.
-├── models/             # Modelos entrenados (opcional)
-├── app/                # Código del deploy (Streamlit, etc.)
+├── models/             # Modelos entrenados 
+├── app/                # Código del deploy 
 ├── scripts/            # Scripts necesarios
 ├── utils/              # Funciones reutilizables
 ├── README.md           # Este archivo 
