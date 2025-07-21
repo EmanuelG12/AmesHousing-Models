@@ -30,7 +30,7 @@ bash
 - Pandas, NumPy, Scikit-learn
 - Matplotlib, Seaborn, Plotly
 - TensorFlow / Keras
-- XGBoost / LightGBM
+- XGBoost / LightGBM / catboost 
 - Streamlit
 
 ---
